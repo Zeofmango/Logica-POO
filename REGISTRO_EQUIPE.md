@@ -5,7 +5,7 @@
 - **Nome da equipe:** Equipe cão
 - **Integrantes:** Douglas Guilherme, João Vitor, Luis Felipe, Victor Martins, 
 - **Linguagem escolhida:** Python ou Java
-- **Link do fork:** COLE AQUI O LINK DO REPOSITÓRIO DE VOCÊS
+- **Link do fork:** https://github.com/Zeofmango/Logica-POO/blob/main/REGISTRO_EQUIPE.md
 - **Resultado do teste:** Funcionou
 
 ## O que conseguimos fazer?
